@@ -17,6 +17,10 @@ Debug:
 ```bash
 ruby debug.rb
 ```
+```ruby
+binding.pry
+```
+
 REPL:
 ```bash
 irb
