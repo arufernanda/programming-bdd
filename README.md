@@ -1,4 +1,4 @@
-# Programming-bdd
+# Programming - BDD (Behavior-driven development)
 
 ## Ruby
 Installation instructions:
